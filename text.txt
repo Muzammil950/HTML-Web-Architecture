@@ -1,0 +1,66 @@
+🌐 What is HTML?
+
+HTML stands for HyperText Markup Language.
+It is the standard language used to create and design the structure of webpages on the Internet.
+
+--------------------------------------------------------------------------------------------------------------
+
+0️⃣.Boilerplate code---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Hello World....</h1>
+</body>
+</html>
+
+--------------------------------------------------------------------------------------------------------------
+
+1️⃣. HTML Elements and Tags
+A container for some content
+<p> this is content </p>
+|   |---content---|    |   
+|-------ELEMENT--------|      
+
+<p> ---Opening Tag
+</p> ----closing Tag
+
+--------------------------------------------------------------------------------------------------------------
+
+
+2️⃣. Basic HTML Page
+
+<!DOCTYPE html>                            #tells browser you are using HTML5
+<html>                                     #root of an html Document
+    <head>                                 #container of meta data
+        <title> My First Page </title>     #page title
+    <head>                                 
+    <body>                                 #contains all data rendered by the browser
+        <p> HELLO WORLD </p>               #paragraph tag
+    <body>
+</html>
+
+
+--------------------------------------------------------------------------------------------------------------
+
+3️⃣. Comments in HTML
+This is part of code that should not be parsed
+<!--This is my comment-->
+
+--------------------------------------------------------------------------------------------------------------
+
+4️⃣. HTML is NOT case sensitive
+<html> = <HTML>
+<p> = <P>
+<head> = <HEAD>
+<body> = <BODY>
+
+--------------------------------------------------------------------------------------------------------------
+
+
+
+
