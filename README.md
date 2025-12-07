@@ -46,6 +46,5 @@ It defines how text, images, links, and multimedia are organized in a browser.
 
 🧭 Semantic HTML
 
-
-
 ---
+This project is designed to help beginners learn the basics of HTML in a simple and practical way. Just copy the provided code, paste it into an easy code editor like VS Code, run it in your browser, and explore how HTML works. By practicing with real examples, you can quickly understand the structure of a web page and enjoy the learning process.
