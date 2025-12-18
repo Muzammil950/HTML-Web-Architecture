@@ -34,7 +34,7 @@ It defines how text, images, links, and multimedia are organized in a browser.
 
 ## 📸 Screenshots
 
-<img src="screenshots/1.png" width="250"> <img src="screenshots/2.png" width="250"> <img src="screenshots/3.png" width="250">
+<img src="preview_shots/html01.png" width="250"> <img src="preview_shots/html02.png" width="250"> <img src="preview_shots/html03.png" width="250">
 
 
 
